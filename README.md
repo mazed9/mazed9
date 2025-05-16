@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mazed.
 - 👀 I’m interested in Machine Learning & Data Science.
-- 🌱 I’m currently learning NLP & Computer Vision.
 - 💞️ I’m looking to collaborate on NLP, Computer Vision & Deep Learning projects.
 - 📫 To reach me: https://www.linkedin.com/in/-abdullah-al-mazed/
 
